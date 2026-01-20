@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aya Abdelsalam Ismail",
+    "title": "Co-Founder and CSO of Guide Labs",
+    "image": "images/aya.jpg",
+    "bio": "Co-Founder and Chief Science Officer at Guide Labs, building interpretable foundation models.",
+    "links": {
+      "website": "https://ayaismail.com/",
+      "scholar": "https://scholar.google.com/citations?user=VDhTJHUAAAAJ&hl=en"
+    }
+  },
+  {
+    "name": "Pietro Barbiero",
+    "title": "Researcher at IBM Research",
+    "image": "images/pietro.jpg",
+    "bio": "Researcher at IBM Research working on concept based interpretability and trustworthy AI.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/pietro-barbiero/",
+      "scholar": "https://scholar.google.com/citations?user=4gbToQoAAAAJ&hl=it"
+    }
+  },
+  {
+    "name": "Alberto Termine",
+    "title": "Tenure-track Researcher at Swiss AI Lab",
+    "image": "images/alberto.jpg",
+    "bio": "Tenure-track researcher at the Swiss AI Lab, specializing in Causal and Concept-Based Methods in Explainable AI.",
+    "links": {
+      "website": "https://sites.google.com/view/albertotermine/home-page",
+      "scholar": "https://scholar.google.com/citations?user=BTluw7sAAAAJ&hl=it"
+    }
+  }
+]

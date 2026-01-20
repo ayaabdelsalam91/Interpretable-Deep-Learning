@@ -1,0 +1,21 @@
+{
+  "title": "About the Reading Group",
+  "description": "This reading group brings together researchers and practitioners interested in interpretable deep learning. We discuss recent papers, share insights, and explore methods to make deep learning models more transparent and understandable. Each session features paper presentations, discussions, and Q&A, with recordings available on our YouTube channel.",
+  "highlights": [
+    {
+      "icon": "📚",
+      "title": "Paper Discussions",
+      "text": "Authors present their work followed by discussions and Q&A sessions"
+    },
+    {
+      "icon": "🎥",
+      "title": "Recorded Sessions",
+      "text": "All sessions are recorded and available on YouTube"
+    },
+    {
+      "icon": "👥",
+      "title": "Community",
+      "text": "Stay informed through our mailing list and Slack channel"
+    }
+  ]
+}

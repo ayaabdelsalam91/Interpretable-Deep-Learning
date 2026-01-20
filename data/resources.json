@@ -1,0 +1,29 @@
+{
+  "community": [
+    {
+      "icon": "💬",
+      "name": "Slack Channel",
+      "description": "Join our community discussions and connect with other members",
+      "url": "https://join.slack.com/t/pyc-yu37757/shared_invite/zt-3nzu6i1q9-~uRFnGdg918cYpEzhR9Mqw"
+    },
+    {
+      "icon": "📧",
+      "name": "Mailing List",
+      "description": "Get announcements and session updates via email",
+      "url": "https://groups.google.com/g/interpretable-deep-learning"
+    },
+    {
+      "icon": "📺",
+      "name": "YouTube Channel",
+      "description": "Watch session recordings and presentations",
+      "url": "https://www.youtube.com/channel/UCy8uptc0EIq14hBg3s8Izew"
+    }
+  ],
+  "readingList": {
+    "icon": "📚",
+    "name": "Paper Reading List",
+    "description": "Curated list of papers on interpretable deep learning",
+    "url": "PAPERS.md",
+    "isInternal": true
+  }
+}
