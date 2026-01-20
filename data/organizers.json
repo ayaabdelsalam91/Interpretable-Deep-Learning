@@ -1,14 +1,5 @@
 [
-  {
-    "name": "Aya Abdelsalam Ismail",
-    "title": "Co-Founder and CSO of Guide Labs",
-    "image": "images/aya.jpg",
-    "bio": "Co-Founder and Chief Science Officer at Guide Labs, building interpretable foundation models.",
-    "links": {
-      "website": "https://ayaismail.com/",
-      "scholar": "https://scholar.google.com/citations?user=VDhTJHUAAAAJ&hl=en"
-    }
-  },
+
   {
     "name": "Pietro Barbiero",
     "title": "Researcher at IBM Research",
@@ -17,6 +8,16 @@
     "links": {
       "linkedin": "https://www.linkedin.com/in/pietro-barbiero/",
       "scholar": "https://scholar.google.com/citations?user=4gbToQoAAAAJ&hl=it"
+    }
+  },
+    {
+    "name": "Aya Abdelsalam Ismail",
+    "title": "Co-Founder and CSO of Guide Labs",
+    "image": "images/aya.jpg",
+    "bio": "Co-Founder and Chief Science Officer at Guide Labs, building interpretable foundation models.",
+    "links": {
+      "website": "https://ayaismail.com/",
+      "scholar": "https://scholar.google.com/citations?user=VDhTJHUAAAAJ&hl=en"
     }
   },
   {
