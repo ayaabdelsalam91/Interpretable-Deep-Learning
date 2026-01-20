@@ -23,7 +23,7 @@
     "icon": "📚",
     "name": "Paper Reading List",
     "description": "Curated list of papers on interpretable deep learning",
-    "url": "PAPERS.md",
-    "isInternal": true
+    "url": "https://github.com/ayaabdelsalam91/Interpretable-Deep-Learning/blob/main/PAPERS.md",
+    "isInternal": false
   }
 }
