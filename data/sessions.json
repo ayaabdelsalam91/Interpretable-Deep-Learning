@@ -16,39 +16,5 @@
   }
 
 
-//   ,
-//   {
-//     "id": "session-2",
-//     "title": "Your Session Title Here",
-//     "speaker": "Dr. Speaker Name",
-//     "date": "2026-03-15",
-//     "time": "2:00 PM ET / 11:00 AM PT / 8:00 PM CET",
-//     "abstract": "Write your session abstract here. Describe what will be covered in the talk and why it's interesting for the community.",
-//     "paper": {
-//       "title": "Paper Title",
-//       "url": "https://arxiv.org/abs/xxxx.xxxxx"
-//     },
-//     "meetingLink": "https://meet.google.com/xxx-xxxx-xxx",
-//     "videoUrl": "",
-//     "status": "upcoming"
-//   }
-
-
-
-//   {
-//     "id": "session-3",
-//     "title": "Past Session Example",
-//     "speaker": "Dr. Past Speaker",
-//     "date": "2026-01-15",
-//     "time": "2:00 PM ET / 11:00 AM PT / 8:00 PM CET",
-//     "abstract": "This is an example of a completed past session.",
-//     "paper": {
-//       "title": "Example Paper",
-//       "url": "https://arxiv.org/abs/example"
-//     },
-//     "meetingLink": "",
-//     "videoUrl": "https://youtube.com/watch?v=YOUR_VIDEO_ID",
-//     "status": "past"
-//   }
 
 ]
